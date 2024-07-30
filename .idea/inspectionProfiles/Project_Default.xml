@@ -1,0 +1,42 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="numpy" />
+            <item index="1" class="java.lang.String" itemvalue="ipywidgets" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pyspark-stubs==3.0.0.post3" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="home.views.KhachHang" />
+          <option value="home.forms.KhachHang" />
+          <option value="KhachHang" />
+          <option value="home.forms.UserCreationForm" />
+          <option value="sklearn.externals.joblib" />
+          <option value="classify.sklearn" />
+          <option value="joblib" />
+          <option value="pandas" />
+          <option value="model_tfidf.sklearn" />
+          <option value="training.sklearn" />
+          <option value="models.exception" />
+          <option value="home.forms.UsercreationForm" />
+          <option value="tensorflow.keras" />
+          <option value="home.views.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
